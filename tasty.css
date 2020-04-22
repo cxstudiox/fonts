@@ -1,6 +1,6 @@
 @font-face {
-  /* font-family: 'poalim_light'; */
-  font-family: 'PoalimSansBIT';
+  font-family: 'poalim_light';
+  /* font-family: 'PoalimSansBIT'; */
   font-style: normal;
   font-weight: 300;
   src: local('PoalimSansBIT Light'), url('https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-light-webfont.woff') format('woff'),
@@ -8,8 +8,8 @@
 }
 
 @font-face {
-    /* font-family: 'poalim_medium'; */
-  font-family: 'PoalimSansBIT';
+    font-family: 'poalim_medium';
+  /* font-family: 'PoalimSansBIT'; */
   font-style: normal;
   font-weight: 600;
   src: local('PoalimSansBIT Medium'), url('https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-medium-webfont.woff') format('woff'),
