@@ -1,11 +1,15 @@
 @font-face {
   font-family: 'PoalimSansBIT';
+  font-style: normal;
+  font-weight: 300;
   src: local('PoalimSansBIT Light'), url(https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-light-webfont.woff) format('woff');
     url(https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-light-webfont.woff2) format('woff2');
 }
 
 @font-face {
   font-family: 'PoalimSansBIT';
+  font-style: normal;
+  font-weight: 600;
   src: local('PoalimSansBIT Medium'), url(https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-medium-webfont.woff) format('woff');
     url(https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-medium-webfont.woff2) format('woff2');
 }
