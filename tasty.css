@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'poalim_light';
-  src: url('../fonts/poalimsans-bit-light-webfont.woff2') format('woff2'),
-    url('../fonts/poalimsans-bit-light-webfont.woff') format('woff');
+  font-family: 'PoalimSansBIT';
+  src: local('PoalimSansBIT Light'), url(https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-light-webfont.woff) format('woff');
+    url(https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-light-webfont.woff2) format('woff2');
 }
 
 @font-face {
-  font-family: 'poalim_medium';
-  src: url('../fonts/poalimsans-bit-medium-webfont.woff2') format('woff2'),
-    url('../fonts/poalimsans-bit-light-webfont.woff') format('woff');
+  font-family: 'PoalimSansBIT';
+  src: local('PoalimSansBIT Medium'), url(https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-medium-webfont.woff) format('woff');
+    url(https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-medium-webfont.woff2) format('woff2');
 }
