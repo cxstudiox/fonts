@@ -8,6 +8,6 @@
 @font-face {
   font-family: 'PoalimSansBIT-Medium';
   src: local('PoalimSansBIT-Medium'), url('https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-medium-webfont.woff') format('woff'),
-    local('PoalimSansBIT-Medium'), url('https://github.com/cxstudiox/fonts/blob/master/fonts/poalimBitMedium.ttf') format('ttf'),
+    local('PoalimSansBIT-Medium'), url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT-Medium.ttf') format('ttf'),
     url('https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-medium-webfont.woff2') format('woff2');
 }
