@@ -1,4 +1,34 @@
+<?php
+AddType application/vnd.ms-fontobject .eot
+AddType font/ttf .ttf
+AddType font/otf .otf
+AddType font/otf .woff
+AddType font/otf .woff2
+<FilesMatch "\.(ttf|otf|eot|woff|woff2)$">
+<IfModule mod_headers.c>
+Header set Access-Control-Allow-Origin "*"
+</IfModule>
+</FilesMatch>
+?>
+
 @font-face {
+  font-family: 'PoalimSansBIT-Light';
+  font-weight: normal;
+  font-style: normal;
+  src: url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT-Light.woff') format('woff'),
+    url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT-Light.ttf') format('truetype'),
+    url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT-Light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'PoalimSansBIT-Medium';
+  font-weight: normal;
+  font-style: normal;
+  src: url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT-Medium.woff') format('woff'),
+    url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT-Medium.ttf') format('truetype'),
+    url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT-Medium.woff2') format('woff2');
+}
+/* @font-face {
   font-family: 'PoalimSansBIT-Light';
   src: local('PoalimSansBIT-Light'), url('https://github.com/cxstudiox/fonts/blob/master/fonts/PoalimSansBIT-Light.woff') format('woff'),
     local('PoalimSansBIT-Light'), url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT-Light.ttf') format('ttf'),
@@ -11,3 +41,4 @@
     local('PoalimSansBIT-Medium'), url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT-Medium.ttf') format('ttf'),
     url('https://github.com/cxstudiox/fonts/blob/master/fonts/PoalimSansBIT-Medium.woff2') format('woff2');
 }
+ */
