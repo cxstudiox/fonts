@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'PoalimSansBIT Light';
-  src: local('PoalimSansBIT Light'), url('https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-light-webfont.woff') format('woff'),
+  src: local('PoalimSansBIT Light'), url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT%20Light.woff') format('woff'),
     local('PoalimSansBIT Light'), url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT%20Light.ttf') format('ttf'),
-    url('https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-light-webfont.woff2') format('woff2');
+    url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT%20Light.woff2') format('woff2');
 }
 
 @font-face {
   font-family: 'PoalimSansBIT Medium';
-  src: local('PoalimSansBIT Medium'), url('https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-medium-webfont.woff') format('woff'),
+  src: local('PoalimSansBIT Medium'), url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT%20Medium.woff.woff') format('woff'),
     local('PoalimSansBIT Medium'), url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT%20Medium.ttf') format('ttf'),
-    url('https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-medium-webfont.woff2') format('woff2');
+    url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT%20Medium.woff2') format('woff2');
 }
