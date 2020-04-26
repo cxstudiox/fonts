@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'PoalimSansBIT-Light';
   src: local('PoalimSansBIT-Light'), url('https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-light-webfont.woff') format('woff'),
-    local('PoalimSansBIT-Light'), url('https://github.com/cxstudiox/fonts/blob/master/fonts/poalimBitLight.ttf') format('ttf'),
+    local('PoalimSansBIT-Light'), url('https://github.com/cxstudiox/fonts/raw/master/fonts/PoalimSansBIT-Light.ttf') format('ttf'),
     url('https://github.com/cxstudiox/fonts/blob/master/fonts/poalimsans-bit-light-webfont.woff2') format('woff2');
 }
 
